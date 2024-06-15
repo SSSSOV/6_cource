@@ -1,0 +1,3 @@
+C:\Users\sakun\source\repos\6_cource\MessengerClient\MessengerClient\x64\Debug\MessengerClient.vcxproj.AssemblyReference.cache
+C:\Users\sakun\source\repos\6_cource\MessengerClient\MessengerClient\x64\Debug\MessengerClient.MyForm.resources
+C:\Users\sakun\source\repos\6_cource\MessengerClient\MessengerClient\x64\Debug\MessengerClient.vcxproj.GenerateResource.cache

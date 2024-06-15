@@ -1,0 +1,1 @@
+C:\Users\sakun\source\repos\6_cource\MessengerServer\MessengerServer\x64\Debug\MessengerServer.vcxproj.AssemblyReference.cache
